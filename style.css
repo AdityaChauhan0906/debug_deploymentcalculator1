@@ -1,4 +1,6 @@
-
+.main{
+    color: rgb(66, 11, 167);
+}
 
 *{
     margin: 0;
@@ -61,7 +63,4 @@ button{
 
 .operator{
     color: #6dee0a;
-}
-.main{
-    color: rgb(66, 11, 167);
 }
